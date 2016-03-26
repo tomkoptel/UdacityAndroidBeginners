@@ -8,9 +8,12 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".BirthDayPage"
-            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
-            >
+        <activity
+            android:name=".BirthDayPage"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+        <activity
+            android:name=".CalculatorActivity"
+            android:label="@string/one_a_lesson">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

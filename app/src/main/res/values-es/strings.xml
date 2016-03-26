@@ -1,9 +1,7 @@
 <resources>
     <string name="app_name">UdacityAndroidBegin</string>
-    <string name="xml" translatable="false">XML</string>
     <string name="one_a_lesson">Udacity Lesson 1a</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hola mundo!</string>
     <string name="add">Add</string>
     <string name="share">Share</string>
-
 </resources>
